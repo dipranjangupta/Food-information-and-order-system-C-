@@ -17,7 +17,7 @@ void menu()
     cout<<"Program Developed by:"<<endl;
     cout<<endl;
     cout<<"1.Shiv Ranjan Gupta \t\tRoll:39"<<endl;
-    cout<<"2.Shrutii jha       \t\tRoll:41"<<endl;
+    cout<<"2.Dipranjan Gupta       \t\tRoll:41"<<endl;
     cout<<"3.Manish Thapa      \t\tRoll:21"<<endl;
     cout<<"3.Menuka Sharma      \t\tRoll:23"<<endl;
     cout<<endl;
